@@ -3,7 +3,7 @@
 
 # Iceberg Launcher
 
-A modern, feature-rich GUI launcher for Titanic osu! versions on Linux. Automatically fetches, downloads, and manages different game versions with a polished user interface and advanced configuration options.
+A modern, feature-rich GUI launcher for Titanic osu! versions on Linux, and now Windows. Automatically fetches, downloads, and manages different game versions with a polished user interface and advanced configuration options.
 
 ## Features
 
